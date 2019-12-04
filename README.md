@@ -1,5 +1,5 @@
 # hello-world
 first repository
 
-columbia computer science student 
+Columbia Computer Science student 
 eager to learn more code!!!
